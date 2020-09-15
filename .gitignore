@@ -11,3 +11,9 @@
 *.lai
 *.la
 *.a
+
+build/src/x64/**
+build/src/StatsdClient.dir/**
+build/src/Debug/**
+build/src/Release/**
+build/.vs/**
