@@ -1,5 +1,0 @@
-C:/development/git/statsd-client-cpp/build/CMakeFiles/INSTALL.dir
-C:/development/git/statsd-client-cpp/build/CMakeFiles/ALL_BUILD.dir
-C:/development/git/statsd-client-cpp/build/CMakeFiles/ZERO_CHECK.dir
-C:/development/git/statsd-client-cpp/build/src/CMakeFiles/StatsdClient.dir
-C:/development/git/statsd-client-cpp/build/src/CMakeFiles/INSTALL.dir
